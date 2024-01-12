@@ -107,7 +107,7 @@ class FavoriteServe {
             // response.setHeader('Content-Type', 'text/plain');
             // response.end("hello nodejs");
         });
-        this.server.listen(this.config.webListen, this.hostName, () => {
+        this.server.listen(this.config.webListen, () => {
             console.log(`网页运行:${this.hostName}:${this.config.webListen}`);
         });
     }
