@@ -1,0 +1,10 @@
+{
+    /** 网页监听端口 */
+    "webListen": 6767,
+    /** 最爱文件夹,取最新的文件 */
+    "favoriteDir": "./favorite",
+      /** 网页所在文件夹 */
+      "webDir": "./web",
+      /** 网页文件名 */
+      "webIndex": "./index.build.html"
+}

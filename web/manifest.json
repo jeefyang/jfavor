@@ -1,0 +1,10 @@
+{
+  "index.build.html": {
+    "file": "assets/index.build.90261901.js",
+    "src": "index.build.html",
+    "isEntry": true,
+    "css": [
+      "assets/index.build.bca7bc10.css"
+    ]
+  }
+}
